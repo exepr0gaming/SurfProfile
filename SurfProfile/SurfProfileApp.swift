@@ -2,7 +2,7 @@
 //  SurfProfileApp.swift
 //  SurfProfile
 //
-//  Created by Курдин Андрей on 10.09.2022.
+//  Created by Курдин Андрей on 11.09.2022.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct SurfProfileApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
